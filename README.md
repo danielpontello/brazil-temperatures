@@ -2,7 +2,7 @@
 
 Um dashboard desenvolvido em R que mostra as temperaturas médias no Brasil, no período de 1991 a 2015. Desenvolvido em R, utilizando o framework Shiny.
 
-O projeto pode ser acessado por [este link](https://danielsader.shinyapps.io/brazil-temperatures/).
+O projeto pode ser acessado por [este link](https://sader.shinyapps.io/brazil-temperatures/).
 
 Dados climáticos históricos obtidos do Climate Change Knowledge Portal, do Banco Mundial. Disponível [aqui](http://sdwebx.worldbank.org/climateportal/index.cfm?page=country_historical_climate&ThisCCode=BRA). 
 
